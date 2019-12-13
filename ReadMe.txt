@@ -1,0 +1,2 @@
+There is a Jupiter notebook named "comp119 Project.ipnb" inside Project. The results can shown via running that notebook. And most of the files are the data we collected from stack overflow after doing a specific pattern.
+And the result of top 10 tags are listed in the "top 10" file with their popularity.
